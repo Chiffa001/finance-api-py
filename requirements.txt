@@ -1,3 +1,4 @@
+aiosqlite==0.21.0
 annotated-types==0.7.0
 anyio==4.10.0
 astroid==3.3.11
@@ -9,6 +10,7 @@ dill==0.4.0
 ecdsa==0.19.1
 fastapi==0.116.1
 flake8==7.3.0
+greenlet==3.2.4
 h11==0.16.0
 idna==3.10
 isort==6.0.1
